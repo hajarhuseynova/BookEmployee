@@ -1,0 +1,30 @@
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\bin\Debug\net6.0\EmployeeWork.exe
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\bin\Debug\net6.0\EmployeeWork.deps.json
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\bin\Debug\net6.0\EmployeeWork.runtimeconfig.json
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\bin\Debug\net6.0\EmployeeWork.dll
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\bin\Debug\net6.0\EmployeeWork.pdb
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\obj\Debug\net6.0\EmployeeWork.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\obj\Debug\net6.0\EmployeeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\obj\Debug\net6.0\EmployeeWork.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\obj\Debug\net6.0\EmployeeWork.AssemblyInfo.cs
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\obj\Debug\net6.0\EmployeeWork.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\obj\Debug\net6.0\EmployeeWork.dll
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\obj\Debug\net6.0\refint\EmployeeWork.dll
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\obj\Debug\net6.0\EmployeeWork.pdb
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\obj\Debug\net6.0\EmployeeWork.genruntimeconfig.cache
+C:\Users\99455\Desktop\hecer c++\EmployeeWork\obj\Debug\net6.0\ref\EmployeeWork.dll
+C:\Users\99455\Desktop\EmployeeWork\bin\Debug\net6.0\EmployeeWork.exe
+C:\Users\99455\Desktop\EmployeeWork\bin\Debug\net6.0\EmployeeWork.deps.json
+C:\Users\99455\Desktop\EmployeeWork\bin\Debug\net6.0\EmployeeWork.runtimeconfig.json
+C:\Users\99455\Desktop\EmployeeWork\bin\Debug\net6.0\EmployeeWork.dll
+C:\Users\99455\Desktop\EmployeeWork\bin\Debug\net6.0\EmployeeWork.pdb
+C:\Users\99455\Desktop\EmployeeWork\obj\Debug\net6.0\EmployeeWork.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\EmployeeWork\obj\Debug\net6.0\EmployeeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\EmployeeWork\obj\Debug\net6.0\EmployeeWork.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\EmployeeWork\obj\Debug\net6.0\EmployeeWork.AssemblyInfo.cs
+C:\Users\99455\Desktop\EmployeeWork\obj\Debug\net6.0\EmployeeWork.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\EmployeeWork\obj\Debug\net6.0\EmployeeWork.dll
+C:\Users\99455\Desktop\EmployeeWork\obj\Debug\net6.0\refint\EmployeeWork.dll
+C:\Users\99455\Desktop\EmployeeWork\obj\Debug\net6.0\EmployeeWork.pdb
+C:\Users\99455\Desktop\EmployeeWork\obj\Debug\net6.0\EmployeeWork.genruntimeconfig.cache
+C:\Users\99455\Desktop\EmployeeWork\obj\Debug\net6.0\ref\EmployeeWork.dll
